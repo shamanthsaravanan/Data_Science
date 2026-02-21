@@ -1,4 +1,4 @@
-# Machine Learning & Data Science Projects 🚀
+# Machine Learning & Data Science Projects
 
 A curated collection of Machine Learning and Data Science projects focusing on **fundamentals, real datasets, and practical implementations** using Python and Scikit-learn.
 
